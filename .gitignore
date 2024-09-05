@@ -6,7 +6,6 @@ node_modules/
 deployments/
 env/
 dist/
-.env
 bin/
 solc
 coverage/
@@ -14,6 +13,7 @@ coverage.json
 yarn-error.log
 typechain-types
 .vscode
+# .env (removed to confirm with team)
 
 # Certora Formal Verification related files
 .certora_internal

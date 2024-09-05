@@ -47,12 +47,13 @@
     },
     "keywords": [
         "Ethereum",
+        "Polygon zkEVM",
         "Wallet",
         "Safe"
     ],
-    "author": "richard@safe.global",
+    "author": "tech@steelo.io",
     "bugs": {
-        "url": "https://github.com/safe-global/safe-smart-account/issues"
+        "url": "https://github.com/steelo-labs/safe-smart-account/issues"
     },
     "devDependencies": {
         "@eslint/js": "^9.9.0",
